@@ -1,0 +1,14 @@
+{
+  "commodity": "CLA",
+  "date_range": {
+    "start": "2010-09-17",
+    "end": "2010-09-17"
+  },
+  "series_info": {
+    "dollar": [],
+    "percent": [],
+    "annual": [],
+    "adjusted": []
+  },
+  "roll_dates": []
+}

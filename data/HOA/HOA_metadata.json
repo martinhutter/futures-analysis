@@ -1,0 +1,76 @@
+{
+  "commodity": "HOA",
+  "date_range": {
+    "start": "2022-09-26",
+    "end": "2024-10-24"
+  },
+  "series_info": {
+    "dollar": [
+      "spread_1_2m",
+      "spread_1_3m",
+      "spread_1_4m",
+      "spread_1_5m",
+      "spread_1_6m",
+      "spread_1_7m",
+      "spread_1_8m",
+      "spread_1_9m",
+      "spread_1_10m",
+      "spread_1_11m",
+      "spread_1_12m"
+    ],
+    "percent": [
+      "spread_1_2m_pct",
+      "spread_1_3m_pct",
+      "spread_1_4m_pct",
+      "spread_1_5m_pct",
+      "spread_1_6m_pct",
+      "spread_1_7m_pct",
+      "spread_1_8m_pct",
+      "spread_1_9m_pct",
+      "spread_1_10m_pct",
+      "spread_1_11m_pct",
+      "spread_1_12m_pct"
+    ],
+    "annual": [
+      "spread_1_2m_pct_annual",
+      "spread_1_3m_pct_annual",
+      "spread_1_4m_pct_annual",
+      "spread_1_5m_pct_annual",
+      "spread_1_6m_pct_annual",
+      "spread_1_7m_pct_annual",
+      "spread_1_8m_pct_annual",
+      "spread_1_9m_pct_annual",
+      "spread_1_10m_pct_annual",
+      "spread_1_11m_pct_annual",
+      "spread_1_12m_pct_annual"
+    ],
+    "adjusted": [
+      "spread_1_2m_pct_annual_adj",
+      "spread_1_3m_pct_annual_adj",
+      "spread_1_4m_pct_annual_adj",
+      "spread_1_5m_pct_annual_adj",
+      "spread_1_6m_pct_annual_adj",
+      "spread_1_7m_pct_annual_adj",
+      "spread_1_8m_pct_annual_adj",
+      "spread_1_9m_pct_annual_adj",
+      "spread_1_10m_pct_annual_adj",
+      "spread_1_11m_pct_annual_adj",
+      "spread_1_12m_pct_annual_adj"
+    ]
+  },
+  "roll_dates": [
+    "2022-09-26",
+    "2022-11-01",
+    "2023-02-01",
+    "2023-03-01",
+    "2023-04-03",
+    "2023-05-02",
+    "2023-06-01",
+    "2023-07-03",
+    "2023-08-01",
+    "2023-09-01",
+    "2024-08-01",
+    "2024-09-02",
+    "2024-10-23"
+  ]
+}
