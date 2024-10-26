@@ -1,0 +1,15 @@
+{
+  "last_update": "2024-10-25T20:35:14.564167",
+  "start_date": "1988-12-06T00:00:00",
+  "end_date": "2024-10-25T00:00:00",
+  "number_of_contracts": 454,
+  "data_fields": [
+    "PX_LAST",
+    "PX_VOLUME"
+  ],
+  "data_statistics": {
+    "trading_days": 9049,
+    "completeness": 0.058690983938157526,
+    "contracts_count": 454
+  }
+}
