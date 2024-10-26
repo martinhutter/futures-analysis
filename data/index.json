@@ -1,0 +1,22 @@
+{
+  "commodities": [
+    "CL",
+    "CO",
+    "XB",
+    "HO",
+    "NG"
+  ],
+  "last_updated": "2024-10-26 12:50:44",
+  "spread_types": [
+    "dollar",
+    "percent",
+    "annual"
+  ],
+  "status": {
+    "CL": true,
+    "CO": true,
+    "XB": true,
+    "HO": true,
+    "NG": true
+  }
+}

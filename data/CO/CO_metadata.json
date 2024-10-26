@@ -1,0 +1,18 @@
+{
+  "commodity": "CO",
+  "date_range": {
+    "start": "1988-06-23",
+    "end": "2024-10-25"
+  },
+  "available_spreads": [
+    "dollar",
+    "percent",
+    "annual"
+  ],
+  "files": {
+    "dollar": "CO_dollar_spreads.json",
+    "percent": "CO_percent_spreads.json",
+    "annual": "CO_annual_spreads.json"
+  },
+  "last_updated": "2024-10-26 12:50:44"
+}

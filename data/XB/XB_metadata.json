@@ -1,0 +1,18 @@
+{
+  "commodity": "XB",
+  "date_range": {
+    "start": "2001-09-17",
+    "end": "2024-10-25"
+  },
+  "available_spreads": [
+    "dollar",
+    "percent",
+    "annual"
+  ],
+  "files": {
+    "dollar": "XB_dollar_spreads.json",
+    "percent": "XB_percent_spreads.json",
+    "annual": "XB_annual_spreads.json"
+  },
+  "last_updated": "2024-10-26 12:50:44"
+}

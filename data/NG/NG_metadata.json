@@ -1,0 +1,18 @@
+{
+  "commodity": "NG",
+  "date_range": {
+    "start": "1990-04-03",
+    "end": "2024-10-25"
+  },
+  "available_spreads": [
+    "dollar",
+    "percent",
+    "annual"
+  ],
+  "files": {
+    "dollar": "NG_dollar_spreads.json",
+    "percent": "NG_percent_spreads.json",
+    "annual": "NG_annual_spreads.json"
+  },
+  "last_updated": "2024-10-26 12:50:44"
+}
