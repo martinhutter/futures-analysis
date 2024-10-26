@@ -3,6 +3,9 @@
 # Old folder
 /old/
 
+# Raw data folder
+/raw_data/
+
 # Python
 __pycache__/
 *.py[cod]

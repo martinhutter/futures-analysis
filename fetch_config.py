@@ -29,7 +29,7 @@ class FetchConfig:
             self.DEFAULT_FIELDS = ["PX_LAST", "PX_VOLUME"]
         
         if self.COMMODITIES is None:
-            self.COMMODITIES = ['CL', 'CO', 'XB', 'HO', 'NG']
+            self.COMMODITIES = ['HG', 'GC', 'SI', 'CL', 'CO', 'HO', 'XB', 'NG']
             
         if self.BASE_PATH is None:
             self.BASE_PATH = "."

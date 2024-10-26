@@ -22,6 +22,7 @@ def fetch_all_commodities():
             'HG',  # Copper
             'GC',  # Gold
             'SI'   # Silver
+            'HG',  # Copper
         ]
     )
     

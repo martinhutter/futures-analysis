@@ -382,7 +382,7 @@ def main():
     config = FetchConfig(
         BASE_PATH=os.getcwd(),
         START_YEAR=2000,  # Adjust as needed
-        COMMODITIES=['HG']  # Test with copper
+        COMMODITIES=['SI']  # Define the commodities you want to fetch/update
     )
     
     try:

@@ -1,22 +1,28 @@
 {
   "commodities": [
+    "HG",
+    "GC",
+    "SI",
     "CL",
     "CO",
-    "XB",
     "HO",
+    "XB",
     "NG"
   ],
-  "last_updated": "2024-10-26 12:50:44",
+  "last_updated": "2024-10-26 13:07:03",
   "spread_types": [
     "dollar",
     "percent",
     "annual"
   ],
   "status": {
+    "HG": false,
+    "GC": false,
+    "SI": false,
     "CL": true,
     "CO": true,
-    "XB": true,
     "HO": true,
+    "XB": true,
     "NG": true
   }
 }
