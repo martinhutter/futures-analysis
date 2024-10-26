@@ -1,0 +1,14 @@
+{
+  "last_calculation": "2024-10-26T08:32:12.113010",
+  "date_range": {
+    "start": "1986-04-01T00:00:00",
+    "end": "2024-10-25T00:00:00"
+  },
+  "spread_counts": {
+    "dollar": 12,
+    "percent": 12,
+    "annual": 12
+  },
+  "max_months_forward": 13,
+  "trading_days_per_year": 251
+}

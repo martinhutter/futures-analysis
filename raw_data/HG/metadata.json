@@ -1,0 +1,2522 @@
+{
+  "HGK88 Comdty": {
+    "name": "HGK88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGM88 Comdty": {
+    "name": "HGM88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGN88 Comdty": {
+    "name": "HGN88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGQ88 Comdty": {
+    "name": "HGQ88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGU88 Comdty": {
+    "name": "HGU88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGV88 Comdty": {
+    "name": "HGV88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGX88 Comdty": {
+    "name": "HGX88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGZ88 Comdty": {
+    "name": "HGZ88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGX85 Comdty": {
+    "name": "HGX85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGZ85 Comdty": {
+    "name": "HGZ85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGF86 Comdty": {
+    "name": "HGF86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGG86 Comdty": {
+    "name": "HGG86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGH86 Comdty": {
+    "name": "HGH86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGJ86 Comdty": {
+    "name": "HGJ86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGK86 Comdty": {
+    "name": "HGK86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGM86 Comdty": {
+    "name": "HGM86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGN86 Comdty": {
+    "name": "HGN86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGQ86 Comdty": {
+    "name": "HGQ86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGF85 Comdty": {
+    "name": "HGF85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGG85 Comdty": {
+    "name": "HGG85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGH85 Comdty": {
+    "name": "HGH85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGJ85 Comdty": {
+    "name": "HGJ85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGK85 Comdty": {
+    "name": "HGK85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGM85 Comdty": {
+    "name": "HGM85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGN85 Comdty": {
+    "name": "HGN85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGQ85 Comdty": {
+    "name": "HGQ85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGU85 Comdty": {
+    "name": "HGU85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGV85 Comdty": {
+    "name": "HGV85 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGN87 Comdty": {
+    "name": "HGN87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGQ87 Comdty": {
+    "name": "HGQ87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGU87 Comdty": {
+    "name": "HGU87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGV87 Comdty": {
+    "name": "HGV87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGX87 Comdty": {
+    "name": "HGX87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGZ87 Comdty": {
+    "name": "HGZ87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGF88 Comdty": {
+    "name": "HGF88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGG88 Comdty": {
+    "name": "HGG88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGH88 Comdty": {
+    "name": "HGH88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGJ88 Comdty": {
+    "name": "HGJ88 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGU86 Comdty": {
+    "name": "HGU86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGV86 Comdty": {
+    "name": "HGV86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGX86 Comdty": {
+    "name": "HGX86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGZ86 Comdty": {
+    "name": "HGZ86 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGF87 Comdty": {
+    "name": "HGF87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGG87 Comdty": {
+    "name": "HGG87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGH87 Comdty": {
+    "name": "HGH87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGJ87 Comdty": {
+    "name": "HGJ87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGK87 Comdty": {
+    "name": "HGK87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGM87 Comdty": {
+    "name": "HGM87 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGU90 Comdty": {
+    "name": "COPPER FUTURE     Sep90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-09-26"
+  },
+  "HGV90 Comdty": {
+    "name": "COPPER FUTURE     Oct90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-10-29"
+  },
+  "HGX90 Comdty": {
+    "name": "COPPER FUTURE     Nov90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-11-28"
+  },
+  "HGZ90 Comdty": {
+    "name": "COPPER FUTURE     Dec90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-12-27"
+  },
+  "HGF91 Comdty": {
+    "name": "COPPER FUTURE     Jan91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-01-27"
+  },
+  "HGG91 Comdty": {
+    "name": "COPPER FUTURE     Feb91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-02-26"
+  },
+  "HGH91 Comdty": {
+    "name": "COPPER FUTURE     Mar91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-03-26"
+  },
+  "HGJ91 Comdty": {
+    "name": "COPPER FUTURE     Apr91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-04-26"
+  },
+  "HGK91 Comdty": {
+    "name": "COPPER FUTURE     May91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-05-29"
+  },
+  "HGM91 Comdty": {
+    "name": "COPPER FUTURE     Jun91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-06-26"
+  },
+  "HGX89 Comdty": {
+    "name": "COPPER FUTURE     Nov89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-11-28"
+  },
+  "HGZ89 Comdty": {
+    "name": "COPPER FUTURE     Dec89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-12-27"
+  },
+  "HGF90 Comdty": {
+    "name": "COPPER FUTURE     Jan90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-01-29"
+  },
+  "HGG90 Comdty": {
+    "name": "COPPER FUTURE     Feb90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-02-26"
+  },
+  "HGH90 Comdty": {
+    "name": "COPPER FUTURE     Mar90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-03-28"
+  },
+  "HGJ90 Comdty": {
+    "name": "COPPER FUTURE     Apr90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-04-26"
+  },
+  "HGK90 Comdty": {
+    "name": "COPPER FUTURE     May90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-05-29"
+  },
+  "HGM90 Comdty": {
+    "name": "COPPER FUTURE     Jun90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-06-27"
+  },
+  "HGN90 Comdty": {
+    "name": "COPPER FUTURE     Jul90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-07-27"
+  },
+  "HGQ90 Comdty": {
+    "name": "COPPER FUTURE     Aug90",
+    "units": "USd/lb.",
+    "last_trade_date": "1990-08-29"
+  },
+  "HGF89 Comdty": {
+    "name": "COPPER FUTURE     Jan89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-01-27"
+  },
+  "HGG89 Comdty": {
+    "name": "COPPER FUTURE     Feb89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-02-24"
+  },
+  "HGH89 Comdty": {
+    "name": "COPPER FUTURE     Mar89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-03-29"
+  },
+  "HGJ89 Comdty": {
+    "name": "COPPER FUTURE     Apr89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-04-26"
+  },
+  "HGK89 Comdty": {
+    "name": "COPPER FUTURE     May89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-05-26"
+  },
+  "HGM89 Comdty": {
+    "name": "COPPER FUTURE     Jun89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-06-28"
+  },
+  "HGN89 Comdty": {
+    "name": "COPPER FUTURE     Jul89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-07-27"
+  },
+  "HGQ89 Comdty": {
+    "name": "COPPER FUTURE     Aug89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-08-28"
+  },
+  "HGU89 Comdty": {
+    "name": "COPPER FUTURE     Sep89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-09-27"
+  },
+  "HGV89 Comdty": {
+    "name": "COPPER FUTURE     Oct89",
+    "units": "USd/lb.",
+    "last_trade_date": "1989-10-27"
+  },
+  "HGK92 Comdty": {
+    "name": "COPPER FUTURE     May92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-05-27"
+  },
+  "HGM92 Comdty": {
+    "name": "COPPER FUTURE     Jun92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-06-26"
+  },
+  "HGN92 Comdty": {
+    "name": "COPPER FUTURE     Jul92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-07-29"
+  },
+  "HGQ92 Comdty": {
+    "name": "COPPER FUTURE     Aug92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-08-27"
+  },
+  "HGU92 Comdty": {
+    "name": "COPPER FUTURE     Sep92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-09-28"
+  },
+  "HGV92 Comdty": {
+    "name": "COPPER FUTURE     Oct92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-10-28"
+  },
+  "HGX92 Comdty": {
+    "name": "COPPER FUTURE     Nov92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-11-25"
+  },
+  "HGZ92 Comdty": {
+    "name": "COPPER FUTURE     Dec92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-12-29"
+  },
+  "HGN91 Comdty": {
+    "name": "COPPER FUTURE     Jul91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-07-29"
+  },
+  "HGQ91 Comdty": {
+    "name": "COPPER FUTURE     Aug91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-08-28"
+  },
+  "HGU91 Comdty": {
+    "name": "COPPER FUTURE     Sep91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-09-26"
+  },
+  "HGV91 Comdty": {
+    "name": "COPPER FUTURE     Oct91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-10-29"
+  },
+  "HGX91 Comdty": {
+    "name": "COPPER FUTURE     Nov91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-11-26"
+  },
+  "HGZ91 Comdty": {
+    "name": "COPPER FUTURE     Dec91",
+    "units": "USd/lb.",
+    "last_trade_date": "1991-12-27"
+  },
+  "HGF92 Comdty": {
+    "name": "COPPER FUTURE     Jan92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-01-29"
+  },
+  "HGG92 Comdty": {
+    "name": "COPPER FUTURE     Feb92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-02-26"
+  },
+  "HGH92 Comdty": {
+    "name": "COPPER FUTURE     Mar92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-03-27"
+  },
+  "HGJ92 Comdty": {
+    "name": "COPPER FUTURE     Apr92",
+    "units": "USd/lb.",
+    "last_trade_date": "1992-04-28"
+  },
+  "HGX93 Comdty": {
+    "name": "COPPER FUTURE     Nov93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-11-26"
+  },
+  "HGZ93 Comdty": {
+    "name": "COPPER FUTURE     Dec93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-12-29"
+  },
+  "HGF94 Comdty": {
+    "name": "COPPER FUTURE     Jan94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-01-27"
+  },
+  "HGG94 Comdty": {
+    "name": "COPPER FUTURE     Feb94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-02-24"
+  },
+  "HGH94 Comdty": {
+    "name": "COPPER FUTURE     Mar94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-03-29"
+  },
+  "HGJ94 Comdty": {
+    "name": "COPPER FUTURE     Apr94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-04-27"
+  },
+  "HGK94 Comdty": {
+    "name": "COPPER FUTURE     May94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-05-26"
+  },
+  "HGM94 Comdty": {
+    "name": "COPPER FUTURE     Jun94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-06-28"
+  },
+  "HGN94 Comdty": {
+    "name": "COPPER FUTURE     Jul94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-07-27"
+  },
+  "HGQ94 Comdty": {
+    "name": "COPPER FUTURE     Aug94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-08-29"
+  },
+  "HGN95 Comdty": {
+    "name": "COPPER FUTURE     Jul95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-07-27"
+  },
+  "HGQ95 Comdty": {
+    "name": "COPPER FUTURE     Aug95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-08-29"
+  },
+  "HGU95 Comdty": {
+    "name": "COPPER FUTURE     Sep95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-09-27"
+  },
+  "HGV95 Comdty": {
+    "name": "COPPER FUTURE     Oct95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-10-27"
+  },
+  "HGX95 Comdty": {
+    "name": "COPPER FUTURE     Nov95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-11-28"
+  },
+  "HGZ95 Comdty": {
+    "name": "COPPER FUTURE     Dec95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-12-27"
+  },
+  "HGF96 Comdty": {
+    "name": "COPPER FUTURE     Jan96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-01-29"
+  },
+  "HGG96 Comdty": {
+    "name": "COPPER FUTURE     Feb96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-02-27"
+  },
+  "HGH96 Comdty": {
+    "name": "COPPER FUTURE     Mar96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-03-27"
+  },
+  "HGJ96 Comdty": {
+    "name": "COPPER FUTURE     Apr96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-04-26"
+  },
+  "HGF93 Comdty": {
+    "name": "COPPER FUTURE     Jan93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-01-27"
+  },
+  "HGG93 Comdty": {
+    "name": "COPPER FUTURE     Feb93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-02-24"
+  },
+  "HGH93 Comdty": {
+    "name": "COPPER FUTURE     Mar93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-03-29"
+  },
+  "HGJ93 Comdty": {
+    "name": "COPPER FUTURE     Apr93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-04-28"
+  },
+  "HGK93 Comdty": {
+    "name": "COPPER FUTURE     May93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-05-26"
+  },
+  "HGM93 Comdty": {
+    "name": "COPPER FUTURE     Jun93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-06-28"
+  },
+  "HGN93 Comdty": {
+    "name": "COPPER FUTURE     Jul93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-07-28"
+  },
+  "HGQ93 Comdty": {
+    "name": "COPPER FUTURE     Aug93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-08-27"
+  },
+  "HGU93 Comdty": {
+    "name": "COPPER FUTURE     Sep93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-09-28"
+  },
+  "HGV93 Comdty": {
+    "name": "COPPER FUTURE     Oct93",
+    "units": "USd/lb.",
+    "last_trade_date": "1993-10-27"
+  },
+  "HGU94 Comdty": {
+    "name": "COPPER FUTURE     Sep94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-09-28"
+  },
+  "HGV94 Comdty": {
+    "name": "COPPER FUTURE     Oct94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-10-27"
+  },
+  "HGX94 Comdty": {
+    "name": "COPPER FUTURE     Nov94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-11-28"
+  },
+  "HGZ94 Comdty": {
+    "name": "COPPER FUTURE     Dec94",
+    "units": "USd/lb.",
+    "last_trade_date": "1994-12-28"
+  },
+  "HGF95 Comdty": {
+    "name": "COPPER FUTURE     Jan95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-01-27"
+  },
+  "HGG95 Comdty": {
+    "name": "COPPER FUTURE     Feb95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-02-24"
+  },
+  "HGH95 Comdty": {
+    "name": "COPPER FUTURE     Mar95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-03-29"
+  },
+  "HGJ95 Comdty": {
+    "name": "COPPER FUTURE     Apr95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-04-26"
+  },
+  "HGK95 Comdty": {
+    "name": "COPPER FUTURE     May95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-05-26"
+  },
+  "HGM95 Comdty": {
+    "name": "COPPER FUTURE     Jun95",
+    "units": "USd/lb.",
+    "last_trade_date": "1995-06-28"
+  },
+  "HGK96 Comdty": {
+    "name": "COPPER FUTURE     May96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-05-29"
+  },
+  "HGM96 Comdty": {
+    "name": "COPPER FUTURE     Jun96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-06-26"
+  },
+  "HGN96 Comdty": {
+    "name": "COPPER FUTURE     Jul96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-07-29"
+  },
+  "HGQ96 Comdty": {
+    "name": "COPPER FUTURE     Aug96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-08-28"
+  },
+  "HGU96 Comdty": {
+    "name": "COPPER FUTURE     Sep96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-09-26"
+  },
+  "HGV96 Comdty": {
+    "name": "COPPER FUTURE     Oct96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-10-29"
+  },
+  "HGX96 Comdty": {
+    "name": "COPPER FUTURE     Nov96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-11-25"
+  },
+  "HGZ96 Comdty": {
+    "name": "COPPER FUTURE     Dec96",
+    "units": "USd/lb.",
+    "last_trade_date": "1996-12-27"
+  },
+  "HGU98 Comdty": {
+    "name": "COPPER FUTURE     Sep98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-09-28"
+  },
+  "HGV98 Comdty": {
+    "name": "COPPER FUTURE     Oct98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-10-28"
+  },
+  "HGX98 Comdty": {
+    "name": "COPPER FUTURE     Nov98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-11-25"
+  },
+  "HGZ98 Comdty": {
+    "name": "COPPER FUTURE     Dec98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-12-29"
+  },
+  "HGF99 Comdty": {
+    "name": "COPPER FUTURE     Jan99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-01-27"
+  },
+  "HGG99 Comdty": {
+    "name": "COPPER FUTURE     Feb99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-02-24"
+  },
+  "HGH99 Comdty": {
+    "name": "COPPER FUTURE     Mar99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-03-29"
+  },
+  "HGJ99 Comdty": {
+    "name": "COPPER FUTURE     Apr99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-04-28"
+  },
+  "HGK99 Comdty": {
+    "name": "COPPER FUTURE     May99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-05-26"
+  },
+  "HGM99 Comdty": {
+    "name": "COPPER FUTURE     Jun99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-06-28"
+  },
+  "HGX97 Comdty": {
+    "name": "COPPER FUTURE     Nov97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-11-25"
+  },
+  "HGZ97 Comdty": {
+    "name": "COPPER FUTURE     Dec97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-12-29"
+  },
+  "HGF98 Comdty": {
+    "name": "COPPER FUTURE     Jan98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-01-28"
+  },
+  "HGG98 Comdty": {
+    "name": "COPPER FUTURE     Feb98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-02-25"
+  },
+  "HGH98 Comdty": {
+    "name": "COPPER FUTURE     Mar98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-03-27"
+  },
+  "HGJ98 Comdty": {
+    "name": "COPPER FUTURE     Apr98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-04-28"
+  },
+  "HGK98 Comdty": {
+    "name": "COPPER FUTURE     May98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-05-27"
+  },
+  "HGM98 Comdty": {
+    "name": "COPPER FUTURE     Jun98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-06-26"
+  },
+  "HGN98 Comdty": {
+    "name": "COPPER FUTURE     Jul98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-07-29"
+  },
+  "HGQ98 Comdty": {
+    "name": "COPPER FUTURE     Aug98",
+    "units": "USd/lb.",
+    "last_trade_date": "1998-08-27"
+  },
+  "HGN99 Comdty": {
+    "name": "COPPER FUTURE     Jul99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-07-28"
+  },
+  "HGQ99 Comdty": {
+    "name": "COPPER FUTURE     Aug99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-08-27"
+  },
+  "HGU99 Comdty": {
+    "name": "COPPER FUTURE     Sep99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-09-28"
+  },
+  "HGV99 Comdty": {
+    "name": "COPPER FUTURE     Oct99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-10-27"
+  },
+  "HGX99 Comdty": {
+    "name": "COPPER FUTURE     Nov99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-11-26"
+  },
+  "HGZ99 Comdty": {
+    "name": "COPPER FUTURE     Dec99",
+    "units": "USd/lb.",
+    "last_trade_date": "1999-12-29"
+  },
+  "HGF00 Comdty": {
+    "name": "COPPER FUTURE     Jan00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-01-27"
+  },
+  "HGG00 Comdty": {
+    "name": "COPPER FUTURE     Feb00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-02-25"
+  },
+  "HGH00 Comdty": {
+    "name": "COPPER FUTURE     Mar00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-03-29"
+  },
+  "HGJ00 Comdty": {
+    "name": "COPPER FUTURE     Apr00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-04-26"
+  },
+  "HGF97 Comdty": {
+    "name": "COPPER FUTURE     Jan97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-01-29"
+  },
+  "HGG97 Comdty": {
+    "name": "COPPER FUTURE     Feb97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-02-26"
+  },
+  "HGH97 Comdty": {
+    "name": "COPPER FUTURE     Mar97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-03-26"
+  },
+  "HGJ97 Comdty": {
+    "name": "COPPER FUTURE     Apr97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-04-28"
+  },
+  "HGK97 Comdty": {
+    "name": "COPPER FUTURE     May97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-05-28"
+  },
+  "HGM97 Comdty": {
+    "name": "COPPER FUTURE     Jun97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-06-26"
+  },
+  "HGN97 Comdty": {
+    "name": "COPPER FUTURE     Jul97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-07-29"
+  },
+  "HGQ97 Comdty": {
+    "name": "COPPER FUTURE     Aug97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-08-27"
+  },
+  "HGU97 Comdty": {
+    "name": "COPPER FUTURE     Sep97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-09-26"
+  },
+  "HGV97 Comdty": {
+    "name": "COPPER FUTURE     Oct97",
+    "units": "USd/lb.",
+    "last_trade_date": "1997-10-29"
+  },
+  "HGK00 Comdty": {
+    "name": "COPPER FUTURE     May00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-05-26"
+  },
+  "HGM00 Comdty": {
+    "name": "COPPER FUTURE     Jun00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-06-28"
+  },
+  "HGN00 Comdty": {
+    "name": "COPPER FUTURE     Jul00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-07-27"
+  },
+  "HGQ00 Comdty": {
+    "name": "COPPER FUTURE     Aug00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-08-29"
+  },
+  "HGU00 Comdty": {
+    "name": "COPPER FUTURE     Sep00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-09-27"
+  },
+  "HGV00 Comdty": {
+    "name": "COPPER FUTURE     Oct00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-10-27"
+  },
+  "HGX00 Comdty": {
+    "name": "COPPER FUTURE     Nov00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-11-28"
+  },
+  "HGZ00 Comdty": {
+    "name": "COPPER FUTURE     Dec00",
+    "units": "USd/lb.",
+    "last_trade_date": "2000-12-27"
+  },
+  "HGK04 Comdty": {
+    "name": "COPPER FUTURE     May04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-05-26"
+  },
+  "HGM04 Comdty": {
+    "name": "COPPER FUTURE     Jun04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-06-28"
+  },
+  "HGN04 Comdty": {
+    "name": "COPPER FUTURE     Jul04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-07-28"
+  },
+  "HGQ04 Comdty": {
+    "name": "COPPER FUTURE     Aug04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-08-27"
+  },
+  "HGU04 Comdty": {
+    "name": "COPPER FUTURE     Sep04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-09-28"
+  },
+  "HGV04 Comdty": {
+    "name": "COPPER FUTURE     Oct04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-10-27"
+  },
+  "HGX04 Comdty": {
+    "name": "COPPER FUTURE     Nov04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-11-26"
+  },
+  "HGZ04 Comdty": {
+    "name": "COPPER FUTURE     Dec04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-12-28"
+  },
+  "HGF01 Comdty": {
+    "name": "COPPER FUTURE     Jan01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-01-29"
+  },
+  "HGG01 Comdty": {
+    "name": "COPPER FUTURE     Feb01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-02-26"
+  },
+  "HGH01 Comdty": {
+    "name": "COPPER FUTURE     Mar01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-03-28"
+  },
+  "HGJ01 Comdty": {
+    "name": "COPPER FUTURE     Apr01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-04-26"
+  },
+  "HGK01 Comdty": {
+    "name": "COPPER FUTURE     May01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-05-29"
+  },
+  "HGM01 Comdty": {
+    "name": "COPPER FUTURE     Jun01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-06-27"
+  },
+  "HGN01 Comdty": {
+    "name": "COPPER FUTURE     Jul01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-07-27"
+  },
+  "HGQ01 Comdty": {
+    "name": "COPPER FUTURE     Aug01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-08-29"
+  },
+  "HGU01 Comdty": {
+    "name": "COPPER FUTURE     Sep01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-09-26"
+  },
+  "HGV01 Comdty": {
+    "name": "COPPER FUTURE     Oct01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-10-29"
+  },
+  "HGN03 Comdty": {
+    "name": "COPPER FUTURE     Jul03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-07-29"
+  },
+  "HGQ03 Comdty": {
+    "name": "COPPER FUTURE     Aug03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-08-27"
+  },
+  "HGU03 Comdty": {
+    "name": "COPPER FUTURE     Sep03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-09-26"
+  },
+  "HGV03 Comdty": {
+    "name": "COPPER FUTURE     Oct03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-10-29"
+  },
+  "HGX03 Comdty": {
+    "name": "COPPER FUTURE     Nov03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-11-25"
+  },
+  "HGZ03 Comdty": {
+    "name": "COPPER FUTURE     Dec03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-12-29"
+  },
+  "HGF04 Comdty": {
+    "name": "COPPER FUTURE     Jan04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-01-28"
+  },
+  "HGG04 Comdty": {
+    "name": "COPPER FUTURE     Feb04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-02-25"
+  },
+  "HGH04 Comdty": {
+    "name": "COPPER FUTURE     Mar04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-03-29"
+  },
+  "HGJ04 Comdty": {
+    "name": "COPPER FUTURE     Apr04",
+    "units": "USd/lb.",
+    "last_trade_date": "2004-04-28"
+  },
+  "HGU02 Comdty": {
+    "name": "COPPER FUTURE     Sep02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-09-26"
+  },
+  "HGV02 Comdty": {
+    "name": "COPPER FUTURE     Oct02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-10-29"
+  },
+  "HGX02 Comdty": {
+    "name": "COPPER FUTURE     Nov02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-11-25"
+  },
+  "HGZ02 Comdty": {
+    "name": "COPPER FUTURE     Dec02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-12-27"
+  },
+  "HGF03 Comdty": {
+    "name": "COPPER FUTURE     Jan03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-01-29"
+  },
+  "HGG03 Comdty": {
+    "name": "COPPER FUTURE     Feb03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-02-26"
+  },
+  "HGH03 Comdty": {
+    "name": "COPPER FUTURE     Mar03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-03-27"
+  },
+  "HGJ03 Comdty": {
+    "name": "COPPER FUTURE     Apr03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-04-28"
+  },
+  "HGK03 Comdty": {
+    "name": "COPPER FUTURE     May03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-05-28"
+  },
+  "HGM03 Comdty": {
+    "name": "COPPER FUTURE     Jun03",
+    "units": "USd/lb.",
+    "last_trade_date": "2003-06-26"
+  },
+  "HGX01 Comdty": {
+    "name": "COPPER FUTURE     Nov01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-11-28"
+  },
+  "HGZ01 Comdty": {
+    "name": "COPPER FUTURE     Dec01",
+    "units": "USd/lb.",
+    "last_trade_date": "2001-12-27"
+  },
+  "HGF02 Comdty": {
+    "name": "COPPER FUTURE     Jan02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-01-29"
+  },
+  "HGG02 Comdty": {
+    "name": "COPPER FUTURE     Feb02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-02-26"
+  },
+  "HGH02 Comdty": {
+    "name": "COPPER FUTURE     Mar02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-03-26"
+  },
+  "HGJ02 Comdty": {
+    "name": "COPPER FUTURE     Apr02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-04-26"
+  },
+  "HGK02 Comdty": {
+    "name": "COPPER FUTURE     May02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-05-29"
+  },
+  "HGM02 Comdty": {
+    "name": "COPPER FUTURE     Jun02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-06-26"
+  },
+  "HGN02 Comdty": {
+    "name": "COPPER FUTURE     Jul02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-07-29"
+  },
+  "HGQ02 Comdty": {
+    "name": "COPPER FUTURE     Aug02",
+    "units": "USd/lb.",
+    "last_trade_date": "2002-08-28"
+  },
+  "HGK08 Comdty": {
+    "name": "COPPER FUTURE     May08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-05-28"
+  },
+  "HGM08 Comdty": {
+    "name": "COPPER FUTURE     Jun08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-06-26"
+  },
+  "HGN08 Comdty": {
+    "name": "COPPER FUTURE     Jul08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-07-29"
+  },
+  "HGQ08 Comdty": {
+    "name": "COPPER FUTURE     Aug08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-08-27"
+  },
+  "HGU08 Comdty": {
+    "name": "COPPER FUTURE     Sep08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-09-26"
+  },
+  "HGV08 Comdty": {
+    "name": "COPPER FUTURE     Oct08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-10-29"
+  },
+  "HGX08 Comdty": {
+    "name": "COPPER FUTURE     Nov08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-11-25"
+  },
+  "HGZ08 Comdty": {
+    "name": "COPPER FUTURE     Dec08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-12-29"
+  },
+  "HGU06 Comdty": {
+    "name": "COPPER FUTURE     Sep06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-09-27"
+  },
+  "HGV06 Comdty": {
+    "name": "COPPER FUTURE     Oct06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-10-27"
+  },
+  "HGX06 Comdty": {
+    "name": "COPPER FUTURE     Nov06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-11-28"
+  },
+  "HGZ06 Comdty": {
+    "name": "COPPER FUTURE     Dec06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-12-27"
+  },
+  "HGF07 Comdty": {
+    "name": "COPPER FUTURE     Jan07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-01-29"
+  },
+  "HGG07 Comdty": {
+    "name": "COPPER FUTURE     Feb07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-02-26"
+  },
+  "HGH07 Comdty": {
+    "name": "COPPER FUTURE     Mar07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-03-28"
+  },
+  "HGJ07 Comdty": {
+    "name": "COPPER FUTURE     Apr07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-04-26"
+  },
+  "HGK07 Comdty": {
+    "name": "COPPER FUTURE     May07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-05-29"
+  },
+  "HGM07 Comdty": {
+    "name": "COPPER FUTURE     Jun07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-06-27"
+  },
+  "HGF05 Comdty": {
+    "name": "COPPER FUTURE     Jan05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-01-27"
+  },
+  "HGG05 Comdty": {
+    "name": "COPPER FUTURE     Feb05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-02-24"
+  },
+  "HGH05 Comdty": {
+    "name": "COPPER FUTURE     Mar05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-03-29"
+  },
+  "HGJ05 Comdty": {
+    "name": "COPPER FUTURE     Apr05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-04-27"
+  },
+  "HGK05 Comdty": {
+    "name": "COPPER FUTURE     May05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-05-26"
+  },
+  "HGM05 Comdty": {
+    "name": "COPPER FUTURE     Jun05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-06-28"
+  },
+  "HGN05 Comdty": {
+    "name": "COPPER FUTURE     Jul05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-07-27"
+  },
+  "HGQ05 Comdty": {
+    "name": "COPPER FUTURE     Aug05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-08-29"
+  },
+  "HGU05 Comdty": {
+    "name": "COPPER FUTURE     Sep05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-09-28"
+  },
+  "HGV05 Comdty": {
+    "name": "COPPER FUTURE     Oct05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-10-27"
+  },
+  "HGX05 Comdty": {
+    "name": "COPPER FUTURE     Nov05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-11-28"
+  },
+  "HGZ05 Comdty": {
+    "name": "COPPER FUTURE     Dec05",
+    "units": "USd/lb.",
+    "last_trade_date": "2005-12-28"
+  },
+  "HGF06 Comdty": {
+    "name": "COPPER FUTURE     Jan06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-01-27"
+  },
+  "HGG06 Comdty": {
+    "name": "COPPER FUTURE     Feb06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-02-24"
+  },
+  "HGH06 Comdty": {
+    "name": "COPPER FUTURE     Mar06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-03-29"
+  },
+  "HGJ06 Comdty": {
+    "name": "COPPER FUTURE     Apr06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-04-26"
+  },
+  "HGK06 Comdty": {
+    "name": "COPPER FUTURE     May06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-05-26"
+  },
+  "HGM06 Comdty": {
+    "name": "COPPER FUTURE     Jun06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-06-28"
+  },
+  "HGN06 Comdty": {
+    "name": "COPPER FUTURE     Jul06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-07-27"
+  },
+  "HGQ06 Comdty": {
+    "name": "COPPER FUTURE     Aug06",
+    "units": "USd/lb.",
+    "last_trade_date": "2006-08-29"
+  },
+  "HGN07 Comdty": {
+    "name": "COPPER FUTURE     Jul07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-07-27"
+  },
+  "HGQ07 Comdty": {
+    "name": "COPPER FUTURE     Aug07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-08-29"
+  },
+  "HGU07 Comdty": {
+    "name": "COPPER FUTURE     Sep07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-09-26"
+  },
+  "HGV07 Comdty": {
+    "name": "COPPER FUTURE     Oct07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-10-29"
+  },
+  "HGX07 Comdty": {
+    "name": "COPPER FUTURE     Nov07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-11-28"
+  },
+  "HGZ07 Comdty": {
+    "name": "COPPER FUTURE     Dec07",
+    "units": "USd/lb.",
+    "last_trade_date": "2007-12-27"
+  },
+  "HGF08 Comdty": {
+    "name": "COPPER FUTURE     Jan08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-01-29"
+  },
+  "HGG08 Comdty": {
+    "name": "COPPER FUTURE     Feb08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-02-27"
+  },
+  "HGH08 Comdty": {
+    "name": "COPPER FUTURE     Mar08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-03-27"
+  },
+  "HGJ08 Comdty": {
+    "name": "COPPER FUTURE     Apr08",
+    "units": "USd/lb.",
+    "last_trade_date": "2008-04-28"
+  },
+  "HGF09 Comdty": {
+    "name": "COPPER FUTURE     Jan09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-01-28"
+  },
+  "HGG09 Comdty": {
+    "name": "COPPER FUTURE     Feb09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-02-25"
+  },
+  "HGH09 Comdty": {
+    "name": "COPPER FUTURE     Mar09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-03-27"
+  },
+  "HGJ09 Comdty": {
+    "name": "COPPER FUTURE     Apr09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-04-28"
+  },
+  "HGK09 Comdty": {
+    "name": "COPPER FUTURE     May09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-05-27"
+  },
+  "HGM09 Comdty": {
+    "name": "COPPER FUTURE     Jun09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-06-26"
+  },
+  "HGN09 Comdty": {
+    "name": "COPPER FUTURE     Jul09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-07-29"
+  },
+  "HGQ09 Comdty": {
+    "name": "COPPER FUTURE     Aug09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-08-27"
+  },
+  "HGU09 Comdty": {
+    "name": "COPPER FUTURE     Sep09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-09-28"
+  },
+  "HGV09 Comdty": {
+    "name": "COPPER FUTURE     Oct09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-10-28"
+  },
+  "HGX09 Comdty": {
+    "name": "COPPER FUTURE     Nov09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-11-25"
+  },
+  "HGZ09 Comdty": {
+    "name": "COPPER FUTURE     Dec09",
+    "units": "USd/lb.",
+    "last_trade_date": "2009-12-29"
+  },
+  "HGF10 Comdty": {
+    "name": "COPPER FUTURE     Jan10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-01-27"
+  },
+  "HGG10 Comdty": {
+    "name": "COPPER FUTURE     Feb10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-02-24"
+  },
+  "HGH10 Comdty": {
+    "name": "COPPER FUTURE     Mar10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-03-29"
+  },
+  "HGJ10 Comdty": {
+    "name": "COPPER FUTURE     Apr10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-04-28"
+  },
+  "HGK10 Comdty": {
+    "name": "COPPER FUTURE     May10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-05-26"
+  },
+  "HGM10 Comdty": {
+    "name": "COPPER FUTURE     Jun10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-06-28"
+  },
+  "HGN10 Comdty": {
+    "name": "COPPER FUTURE     Jul10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-07-28"
+  },
+  "HGQ10 Comdty": {
+    "name": "COPPER FUTURE     Aug10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-08-27"
+  },
+  "HGK12 Comdty": {
+    "name": "COPPER FUTURE     May12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-05-29"
+  },
+  "HGM12 Comdty": {
+    "name": "COPPER FUTURE     Jun12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-06-27"
+  },
+  "HGN12 Comdty": {
+    "name": "COPPER FUTURE     Jul12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-07-27"
+  },
+  "HGQ12 Comdty": {
+    "name": "COPPER FUTURE     Aug12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-08-29"
+  },
+  "HGU12 Comdty": {
+    "name": "COPPER FUTURE     Sep12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-09-26"
+  },
+  "HGV12 Comdty": {
+    "name": "COPPER FUTURE     Oct12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-10-29"
+  },
+  "HGX12 Comdty": {
+    "name": "COPPER FUTURE     Nov12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-11-28"
+  },
+  "HGZ12 Comdty": {
+    "name": "COPPER FUTURE     Dec12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-12-27"
+  },
+  "HGU10 Comdty": {
+    "name": "COPPER FUTURE     Sep10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-09-28"
+  },
+  "HGV10 Comdty": {
+    "name": "COPPER FUTURE     Oct10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-10-27"
+  },
+  "HGX10 Comdty": {
+    "name": "COPPER FUTURE     Nov10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-11-26"
+  },
+  "HGZ10 Comdty": {
+    "name": "COPPER FUTURE     Dec10",
+    "units": "USd/lb.",
+    "last_trade_date": "2010-12-29"
+  },
+  "HGF11 Comdty": {
+    "name": "COPPER FUTURE     Jan11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-01-27"
+  },
+  "HGG11 Comdty": {
+    "name": "COPPER FUTURE     Feb11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-02-24"
+  },
+  "HGH11 Comdty": {
+    "name": "COPPER FUTURE     Mar11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-03-29"
+  },
+  "HGJ11 Comdty": {
+    "name": "COPPER FUTURE     Apr11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-04-27"
+  },
+  "HGK11 Comdty": {
+    "name": "COPPER FUTURE     May11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-05-26"
+  },
+  "HGM11 Comdty": {
+    "name": "COPPER FUTURE     Jun11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-06-28"
+  },
+  "HGN11 Comdty": {
+    "name": "COPPER FUTURE     Jul11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-07-27"
+  },
+  "HGQ11 Comdty": {
+    "name": "COPPER FUTURE     Aug11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-08-29"
+  },
+  "HGU11 Comdty": {
+    "name": "COPPER FUTURE     Sep11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-09-28"
+  },
+  "HGV11 Comdty": {
+    "name": "COPPER FUTURE     Oct11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-10-27"
+  },
+  "HGX11 Comdty": {
+    "name": "COPPER FUTURE     Nov11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-11-28"
+  },
+  "HGZ11 Comdty": {
+    "name": "COPPER FUTURE     Dec11",
+    "units": "USd/lb.",
+    "last_trade_date": "2011-12-28"
+  },
+  "HGF12 Comdty": {
+    "name": "COPPER FUTURE     Jan12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-01-27"
+  },
+  "HGG12 Comdty": {
+    "name": "COPPER FUTURE     Feb12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-02-27"
+  },
+  "HGH12 Comdty": {
+    "name": "COPPER FUTURE     Mar12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-03-28"
+  },
+  "HGJ12 Comdty": {
+    "name": "COPPER FUTURE     Apr12",
+    "units": "USd/lb.",
+    "last_trade_date": "2012-04-26"
+  },
+  "HGF13 Comdty": {
+    "name": "COPPER FUTURE     Jan13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-01-29"
+  },
+  "HGG13 Comdty": {
+    "name": "COPPER FUTURE     Feb13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-02-26"
+  },
+  "HGH13 Comdty": {
+    "name": "COPPER FUTURE     Mar13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-03-26"
+  },
+  "HGJ13 Comdty": {
+    "name": "COPPER FUTURE     Apr13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-04-26"
+  },
+  "HGK13 Comdty": {
+    "name": "COPPER FUTURE     May13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-05-29"
+  },
+  "HGM13 Comdty": {
+    "name": "COPPER FUTURE     Jun13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-06-26"
+  },
+  "HGN13 Comdty": {
+    "name": "COPPER FUTURE     Jul13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-07-29"
+  },
+  "HGQ13 Comdty": {
+    "name": "COPPER FUTURE     Aug13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-08-28"
+  },
+  "HGU13 Comdty": {
+    "name": "COPPER FUTURE     Sep13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-09-26"
+  },
+  "HGV13 Comdty": {
+    "name": "COPPER FUTURE     Oct13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-10-29"
+  },
+  "HGN15 Comdty": {
+    "name": "COPPER FUTURE     Jul15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-07-29"
+  },
+  "HGQ15 Comdty": {
+    "name": "COPPER FUTURE     Aug15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-08-27"
+  },
+  "HGU15 Comdty": {
+    "name": "COPPER FUTURE     Sep15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-09-28"
+  },
+  "HGV15 Comdty": {
+    "name": "COPPER FUTURE     Oct15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-10-28"
+  },
+  "HGX15 Comdty": {
+    "name": "COPPER FUTURE     Nov15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-11-25"
+  },
+  "HGZ15 Comdty": {
+    "name": "COPPER FUTURE     Dec15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-12-29"
+  },
+  "HGF16 Comdty": {
+    "name": "COPPER FUTURE     Jan16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-01-27"
+  },
+  "HGG16 Comdty": {
+    "name": "COPPER FUTURE     Feb16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-02-25"
+  },
+  "HGH16 Comdty": {
+    "name": "COPPER FUTURE     Mar16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-03-29"
+  },
+  "HGJ16 Comdty": {
+    "name": "COPPER FUTURE     Apr16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-04-27"
+  },
+  "HGU14 Comdty": {
+    "name": "COPPER FUTURE     Sep14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-09-26"
+  },
+  "HGV14 Comdty": {
+    "name": "COPPER FUTURE     Oct14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-10-29"
+  },
+  "HGX14 Comdty": {
+    "name": "COPPER FUTURE     Nov14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-11-25"
+  },
+  "HGZ14 Comdty": {
+    "name": "COPPER FUTURE     Dec14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-12-29"
+  },
+  "HGF15 Comdty": {
+    "name": "COPPER FUTURE     Jan15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-01-28"
+  },
+  "HGG15 Comdty": {
+    "name": "COPPER FUTURE     Feb15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-02-25"
+  },
+  "HGH15 Comdty": {
+    "name": "COPPER FUTURE     Mar15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-03-27"
+  },
+  "HGJ15 Comdty": {
+    "name": "COPPER FUTURE     Apr15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-04-28"
+  },
+  "HGK15 Comdty": {
+    "name": "COPPER FUTURE     May15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-05-27"
+  },
+  "HGM15 Comdty": {
+    "name": "COPPER FUTURE     Jun15",
+    "units": "USd/lb.",
+    "last_trade_date": "2015-06-26"
+  },
+  "HGK16 Comdty": {
+    "name": "COPPER FUTURE     May16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-05-26"
+  },
+  "HGM16 Comdty": {
+    "name": "COPPER FUTURE     Jun16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-06-28"
+  },
+  "HGN16 Comdty": {
+    "name": "COPPER FUTURE     Jul16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-07-27"
+  },
+  "HGQ16 Comdty": {
+    "name": "COPPER FUTURE     Aug16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-08-29"
+  },
+  "HGU16 Comdty": {
+    "name": "COPPER FUTURE     Sep16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-09-28"
+  },
+  "HGV16 Comdty": {
+    "name": "COPPER FUTURE     Oct16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-10-27"
+  },
+  "HGX16 Comdty": {
+    "name": "COPPER FUTURE     Nov16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-11-28"
+  },
+  "HGZ16 Comdty": {
+    "name": "COPPER FUTURE     Dec16",
+    "units": "USd/lb.",
+    "last_trade_date": "2016-12-28"
+  },
+  "HGX13 Comdty": {
+    "name": "COPPER FUTURE     Nov13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-11-26"
+  },
+  "HGZ13 Comdty": {
+    "name": "COPPER FUTURE     Dec13",
+    "units": "USd/lb.",
+    "last_trade_date": "2013-12-27"
+  },
+  "HGF14 Comdty": {
+    "name": "COPPER FUTURE     Jan14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-01-29"
+  },
+  "HGG14 Comdty": {
+    "name": "COPPER FUTURE     Feb14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-02-26"
+  },
+  "HGH14 Comdty": {
+    "name": "COPPER FUTURE     Mar14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-03-27"
+  },
+  "HGJ14 Comdty": {
+    "name": "COPPER FUTURE     Apr14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-04-28"
+  },
+  "HGK14 Comdty": {
+    "name": "COPPER FUTURE     May14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-05-28"
+  },
+  "HGM14 Comdty": {
+    "name": "COPPER FUTURE     Jun14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-06-26"
+  },
+  "HGN14 Comdty": {
+    "name": "COPPER FUTURE     Jul14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-07-29"
+  },
+  "HGQ14 Comdty": {
+    "name": "COPPER FUTURE     Aug14",
+    "units": "USd/lb.",
+    "last_trade_date": "2014-08-27"
+  },
+  "HGU18 Comdty": {
+    "name": "COPPER FUTURE     Sep18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-09-26"
+  },
+  "HGV18 Comdty": {
+    "name": "COPPER FUTURE     Oct18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-10-29"
+  },
+  "HGX18 Comdty": {
+    "name": "COPPER FUTURE     Nov18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-11-28"
+  },
+  "HGZ18 Comdty": {
+    "name": "COPPER FUTURE     Dec18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-12-27"
+  },
+  "HGF19 Comdty": {
+    "name": "COPPER FUTURE     Jan19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-01-29"
+  },
+  "HGG19 Comdty": {
+    "name": "COPPER FUTURE     Feb19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-02-26"
+  },
+  "HGH19 Comdty": {
+    "name": "COPPER FUTURE     Mar19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-03-27"
+  },
+  "HGJ19 Comdty": {
+    "name": "COPPER FUTURE     Apr19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-04-26"
+  },
+  "HGK19 Comdty": {
+    "name": "COPPER FUTURE     May19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-05-29"
+  },
+  "HGM19 Comdty": {
+    "name": "COPPER FUTURE     Jun19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-06-26"
+  },
+  "HGF17 Comdty": {
+    "name": "COPPER FUTURE     Jan17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-01-27"
+  },
+  "HGG17 Comdty": {
+    "name": "COPPER FUTURE     Feb17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-02-24"
+  },
+  "HGH17 Comdty": {
+    "name": "COPPER FUTURE     Mar17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-03-29"
+  },
+  "HGJ17 Comdty": {
+    "name": "COPPER FUTURE     Apr17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-04-26"
+  },
+  "HGK17 Comdty": {
+    "name": "COPPER FUTURE     May17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-05-26"
+  },
+  "HGM17 Comdty": {
+    "name": "COPPER FUTURE     Jun17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-06-28"
+  },
+  "HGN17 Comdty": {
+    "name": "COPPER FUTURE     Jul17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-07-27"
+  },
+  "HGQ17 Comdty": {
+    "name": "COPPER FUTURE     Aug17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-08-29"
+  },
+  "HGU17 Comdty": {
+    "name": "COPPER FUTURE     Sep17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-09-27"
+  },
+  "HGV17 Comdty": {
+    "name": "COPPER FUTURE     Oct17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-10-27"
+  },
+  "HGN19 Comdty": {
+    "name": "COPPER FUTURE     Jul19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-07-29"
+  },
+  "HGQ19 Comdty": {
+    "name": "COPPER FUTURE     Aug19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-08-28"
+  },
+  "HGU19 Comdty": {
+    "name": "COPPER FUTURE     Sep19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-09-26"
+  },
+  "HGV19 Comdty": {
+    "name": "COPPER FUTURE     Oct19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-10-29"
+  },
+  "HGX19 Comdty": {
+    "name": "COPPER FUTURE     Nov19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-11-26"
+  },
+  "HGZ19 Comdty": {
+    "name": "COPPER FUTURE     Dec19",
+    "units": "USd/lb.",
+    "last_trade_date": "2019-12-27"
+  },
+  "HGF20 Comdty": {
+    "name": "COPPER FUTURE     Jan20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-01-29"
+  },
+  "HGG20 Comdty": {
+    "name": "COPPER FUTURE     Feb20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-02-26"
+  },
+  "HGH20 Comdty": {
+    "name": "COPPER FUTURE     Mar20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-03-27"
+  },
+  "HGJ20 Comdty": {
+    "name": "COPPER FUTURE     Apr20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-04-28"
+  },
+  "HGK20 Comdty": {
+    "name": "COPPER FUTURE     May20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-05-27"
+  },
+  "HGM20 Comdty": {
+    "name": "COPPER FUTURE     Jun20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-06-26"
+  },
+  "HGN20 Comdty": {
+    "name": "COPPER FUTURE     Jul20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-07-29"
+  },
+  "HGQ20 Comdty": {
+    "name": "COPPER FUTURE     Aug20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-08-27"
+  },
+  "HGU20 Comdty": {
+    "name": "COPPER FUTURE     Sep20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-09-28"
+  },
+  "HGV20 Comdty": {
+    "name": "COPPER FUTURE     Oct20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-10-28"
+  },
+  "HGX20 Comdty": {
+    "name": "COPPER FUTURE     Nov20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-11-25"
+  },
+  "HGZ20 Comdty": {
+    "name": "COPPER FUTURE     Dec20",
+    "units": "USd/lb.",
+    "last_trade_date": "2020-12-29"
+  },
+  "HGX17 Comdty": {
+    "name": "COPPER FUTURE     Nov17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-11-28"
+  },
+  "HGZ17 Comdty": {
+    "name": "COPPER FUTURE     Dec17",
+    "units": "USd/lb.",
+    "last_trade_date": "2017-12-27"
+  },
+  "HGF18 Comdty": {
+    "name": "COPPER FUTURE     Jan18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-01-29"
+  },
+  "HGG18 Comdty": {
+    "name": "COPPER FUTURE     Feb18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-02-26"
+  },
+  "HGH18 Comdty": {
+    "name": "COPPER FUTURE     Mar18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-03-27"
+  },
+  "HGJ18 Comdty": {
+    "name": "COPPER FUTURE     Apr18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-04-26"
+  },
+  "HGK18 Comdty": {
+    "name": "COPPER FUTURE     May18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-05-29"
+  },
+  "HGM18 Comdty": {
+    "name": "COPPER FUTURE     Jun18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-06-27"
+  },
+  "HGN18 Comdty": {
+    "name": "COPPER FUTURE     Jul18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-07-27"
+  },
+  "HGQ18 Comdty": {
+    "name": "COPPER FUTURE     Aug18",
+    "units": "USd/lb.",
+    "last_trade_date": "2018-08-29"
+  },
+  "HGK24 Comdty": {
+    "name": "COPPER FUTURE     May24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-05-29"
+  },
+  "HGM24 Comdty": {
+    "name": "COPPER FUTURE     Jun24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-06-26"
+  },
+  "HGN24 Comdty": {
+    "name": "COPPER FUTURE     Jul24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-07-29"
+  },
+  "HGQ24 Comdty": {
+    "name": "COPPER FUTURE     Aug24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-08-28"
+  },
+  "HGU24 Comdty": {
+    "name": "COPPER FUTURE     Sep24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-09-26"
+  },
+  "HGV24 Comdty": {
+    "name": "COPPER FUTURE     Oct24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-10-29"
+  },
+  "HGX24 Comdty": {
+    "name": "COPPER FUTURE     Nov24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-11-26"
+  },
+  "HGZ24 Comdty": {
+    "name": "COPPER FUTURE     Dec24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-12-27"
+  },
+  "HGN23 Comdty": {
+    "name": "COPPER FUTURE     Jul23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-07-27"
+  },
+  "HGQ23 Comdty": {
+    "name": "COPPER FUTURE     Aug23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-08-29"
+  },
+  "HGU23 Comdty": {
+    "name": "COPPER FUTURE     Sep23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-09-27"
+  },
+  "HGV23 Comdty": {
+    "name": "COPPER FUTURE     Oct23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-10-27"
+  },
+  "HGX23 Comdty": {
+    "name": "COPPER FUTURE     Nov23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-11-28"
+  },
+  "HGZ23 Comdty": {
+    "name": "COPPER FUTURE     Dec23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-12-27"
+  },
+  "HGF24 Comdty": {
+    "name": "COPPER FUTURE     Jan24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-01-29"
+  },
+  "HGG24 Comdty": {
+    "name": "COPPER FUTURE     Feb24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-02-27"
+  },
+  "HGH24 Comdty": {
+    "name": "COPPER FUTURE     Mar24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-03-26"
+  },
+  "HGJ24 Comdty": {
+    "name": "COPPER FUTURE     Apr24",
+    "units": "USd/lb.",
+    "last_trade_date": "2024-04-26"
+  },
+  "HGU22 Comdty": {
+    "name": "COPPER FUTURE     Sep22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-09-28"
+  },
+  "HGV22 Comdty": {
+    "name": "COPPER FUTURE     Oct22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-10-27"
+  },
+  "HGX22 Comdty": {
+    "name": "COPPER FUTURE     Nov22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-11-28"
+  },
+  "HGZ22 Comdty": {
+    "name": "COPPER FUTURE     Dec22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-12-28"
+  },
+  "HGF23 Comdty": {
+    "name": "COPPER FUTURE     Jan23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-01-27"
+  },
+  "HGG23 Comdty": {
+    "name": "COPPER FUTURE     Feb23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-02-24"
+  },
+  "HGH23 Comdty": {
+    "name": "COPPER FUTURE     Mar23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-03-29"
+  },
+  "HGJ23 Comdty": {
+    "name": "COPPER FUTURE     Apr23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-04-26"
+  },
+  "HGK23 Comdty": {
+    "name": "COPPER FUTURE     May23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-05-26"
+  },
+  "HGM23 Comdty": {
+    "name": "COPPER FUTURE     Jun23",
+    "units": "USd/lb.",
+    "last_trade_date": "2023-06-28"
+  },
+  "HGX21 Comdty": {
+    "name": "COPPER FUTURE     Nov21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-11-26"
+  },
+  "HGZ21 Comdty": {
+    "name": "COPPER FUTURE     Dec21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-12-29"
+  },
+  "HGF22 Comdty": {
+    "name": "COPPER FUTURE     Jan22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-01-27"
+  },
+  "HGG22 Comdty": {
+    "name": "COPPER FUTURE     Feb22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-02-24"
+  },
+  "HGH22 Comdty": {
+    "name": "COPPER FUTURE     Mar22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-03-29"
+  },
+  "HGJ22 Comdty": {
+    "name": "COPPER FUTURE     Apr22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-04-27"
+  },
+  "HGK22 Comdty": {
+    "name": "COPPER FUTURE     May22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-05-26"
+  },
+  "HGM22 Comdty": {
+    "name": "COPPER FUTURE     Jun22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-06-28"
+  },
+  "HGN22 Comdty": {
+    "name": "COPPER FUTURE     Jul22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-07-27"
+  },
+  "HGQ22 Comdty": {
+    "name": "COPPER FUTURE     Aug22",
+    "units": "USd/lb.",
+    "last_trade_date": "2022-08-29"
+  },
+  "HGF21 Comdty": {
+    "name": "COPPER FUTURE     Jan21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-01-27"
+  },
+  "HGG21 Comdty": {
+    "name": "COPPER FUTURE     Feb21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-02-24"
+  },
+  "HGH21 Comdty": {
+    "name": "COPPER FUTURE     Mar21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-03-29"
+  },
+  "HGJ21 Comdty": {
+    "name": "COPPER FUTURE     Apr21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-04-28"
+  },
+  "HGK21 Comdty": {
+    "name": "COPPER FUTURE     May21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-05-26"
+  },
+  "HGM21 Comdty": {
+    "name": "COPPER FUTURE     Jun21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-06-28"
+  },
+  "HGN21 Comdty": {
+    "name": "COPPER FUTURE     Jul21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-07-28"
+  },
+  "HGQ21 Comdty": {
+    "name": "COPPER FUTURE     Aug21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-08-27"
+  },
+  "HGU21 Comdty": {
+    "name": "COPPER FUTURE     Sep21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-09-28"
+  },
+  "HGV21 Comdty": {
+    "name": "COPPER FUTURE     Oct21",
+    "units": "USd/lb.",
+    "last_trade_date": "2021-10-27"
+  },
+  "HGF25 Comdty": {
+    "name": "COPPER FUTURE     Jan25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-01-29"
+  },
+  "HGG25 Comdty": {
+    "name": "COPPER FUTURE     Feb25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-02-26"
+  },
+  "HGH25 Comdty": {
+    "name": "COPPER FUTURE     Mar25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-03-27"
+  },
+  "HGJ25 Comdty": {
+    "name": "COPPER FUTURE     Apr25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-04-28"
+  },
+  "HGK25 Comdty": {
+    "name": "COPPER FUTURE     May25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-05-28"
+  },
+  "HGM25 Comdty": {
+    "name": "COPPER FUTURE     Jun25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-06-26"
+  },
+  "HGN25 Comdty": {
+    "name": "COPPER FUTURE     Jul25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-07-29"
+  },
+  "HGQ25 Comdty": {
+    "name": "COPPER FUTURE     Aug25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-08-27"
+  },
+  "HGU25 Comdty": {
+    "name": "COPPER FUTURE     Sep25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-09-26"
+  },
+  "HGV25 Comdty": {
+    "name": "COPPER FUTURE     Oct25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-10-29"
+  },
+  "HGU26 Comdty": {
+    "name": "COPPER FUTURE     Sep26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-09-28"
+  },
+  "HGV26 Comdty": {
+    "name": "COPPER FUTURE     Oct26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-10-28"
+  },
+  "HGX26 Comdty": {
+    "name": "HGX26 Comdty",
+    "units": "",
+    "last_trade_date": ""
+  },
+  "HGZ26 Comdty": {
+    "name": "COPPER FUTURE     Dec26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-12-29"
+  },
+  "HGX25 Comdty": {
+    "name": "COPPER FUTURE     Nov25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-11-25"
+  },
+  "HGZ25 Comdty": {
+    "name": "COPPER FUTURE     Dec25",
+    "units": "USd/lb.",
+    "last_trade_date": "2025-12-29"
+  },
+  "HGF26 Comdty": {
+    "name": "COPPER FUTURE     Jan26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-01-28"
+  },
+  "HGG26 Comdty": {
+    "name": "COPPER FUTURE     Feb26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-02-25"
+  },
+  "HGH26 Comdty": {
+    "name": "COPPER FUTURE     Mar26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-03-27"
+  },
+  "HGJ26 Comdty": {
+    "name": "COPPER FUTURE     Apr26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-04-28"
+  },
+  "HGK26 Comdty": {
+    "name": "COPPER FUTURE     May26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-05-27"
+  },
+  "HGM26 Comdty": {
+    "name": "COPPER FUTURE     Jun26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-06-26"
+  },
+  "HGN26 Comdty": {
+    "name": "COPPER FUTURE     Jul26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-07-29"
+  },
+  "HGQ26 Comdty": {
+    "name": "COPPER FUTURE     Aug26",
+    "units": "USd/lb.",
+    "last_trade_date": "2026-08-27"
+  }
+}
