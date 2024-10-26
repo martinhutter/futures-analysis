@@ -1,0 +1,18 @@
+{
+  "commodity": "GC",
+  "date_range": {
+    "start": "1985-01-02",
+    "end": "2024-10-25"
+  },
+  "available_spreads": [
+    "dollar",
+    "percent",
+    "annual"
+  ],
+  "files": {
+    "dollar": "GC_dollar_spreads.json",
+    "percent": "GC_percent_spreads.json",
+    "annual": "GC_annual_spreads.json"
+  },
+  "last_updated": "2024-10-26 13:15:08"
+}

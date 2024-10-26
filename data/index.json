@@ -9,16 +9,16 @@
     "XB",
     "NG"
   ],
-  "last_updated": "2024-10-26 13:07:03",
+  "last_updated": "2024-10-26 13:15:08",
   "spread_types": [
     "dollar",
     "percent",
     "annual"
   ],
   "status": {
-    "HG": false,
-    "GC": false,
-    "SI": false,
+    "HG": true,
+    "GC": true,
+    "SI": true,
     "CL": true,
     "CO": true,
     "HO": true,
